@@ -1,2 +1,0 @@
-# paypal
-Created with CodeSandbox
